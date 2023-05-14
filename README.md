@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am Binil😃
-i am just starting out on github
+and i am just starting out on github
 
 
 
